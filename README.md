@@ -13,7 +13,7 @@ I am an Undergraduate Software Engineering Student at **SLIIT**. I am passionate
 - 🔭 I’m currently working on **Advanced Web Technologies & MERN Stack**
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Java, Python, and Cloud Tech**
+- 💬 Ask me about **React, Java, Python, Kotlin, PostgreSQL, Cloud Tech**
 - 📫 Reach me at **vmedirisinghe02@gmail.com**
 
 <br clear="both"/>
@@ -33,7 +33,7 @@ I am an Undergraduate Software Engineering Student at **SLIIT**. I am passionate
   <tr>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,php&perline=3" />
+        <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,php,kotlin&perline=3" />
       </a>
     </td>
     <td align="center">
@@ -43,7 +43,7 @@ I am an Undergraduate Software Engineering Student at **SLIIT**. I am passionate
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase&perline=3" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase,postgresql&perline=3" />
       </a>
     </td>
     <td align="center">
@@ -53,7 +53,7 @@ I am an Undergraduate Software Engineering Student at **SLIIT**. I am passionate
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux,ps&perline=3" />
+        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux,ps,docker&perline=3" />
       </a>
     </td>
   </tr>
