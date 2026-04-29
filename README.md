@@ -33,12 +33,12 @@ I am an Undergraduate Software Engineering Student at **SLIIT**. I am passionate
   <tr>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,php,kotlin&perline=3" />
+        <img src="https://skillicons.dev/icons?i=java,python,cpp,c,cs,js,php,kotlin&perline=3" />
       </a>
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&perline=3" />
+        <img src="https://skillicons.dev/icons?i=react,html,laravel,css,tailwind,bootstrap&perline=3" />
       </a>
     </td>
     <td align="center">
@@ -48,7 +48,7 @@ I am an Undergraduate Software Engineering Student at **SLIIT**. I am passionate
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,sklearn&perline=3" />
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,gcp,sklearn&perline=3" />
       </a>
     </td>
     <td align="center">
