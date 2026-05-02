@@ -53,7 +53,7 @@ I am an Undergraduate Software Engineering Student at **SLIIT**. I am passionate
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux,ps,docker&perline=3" />
+        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux,ps,docker,androidstudio,kubernetes&perline=3" />
       </a>
     </td>
   </tr>
