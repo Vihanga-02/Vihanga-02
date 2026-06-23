@@ -68,8 +68,8 @@ I am an Undergraduate Software Engineering Student at **SLIIT**. I am passionate
 ## 📊 **GitHub Analytics**
 
 <p align="center">
-  <a href="https://github.com/vihanga-02">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vihanga-02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Vihanga's Stats" />
+  <a href="https://github.com/Vihanga-02">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vihanga-02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Vihanga's Stats" />
   </a>
   <a href="https://github.com/vihanga-02">
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vihanga-02&theme=tokyonight&hide_border=true&background=0D1117" alt="Vihanga's Streak" />
