@@ -113,6 +113,6 @@ I am an Undergraduate Software Engineering Student at **SLIIT**. I am passionate
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=vihanga-02&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Vihanga-02&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile views" />
 
 </div>
