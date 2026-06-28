@@ -77,8 +77,8 @@ I am an Undergraduate Software Engineering Student at **SLIIT**. I am passionate
 </p>
 
 <p align="center">
-  <a href="https://github.com/vihanga-02">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vihanga-02&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/Vihanga-02">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vihanga-02&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
